@@ -2,3 +2,5 @@ package Userservice;
 
 get the user data....
 processing the user data
+
+craete and avatar for use
