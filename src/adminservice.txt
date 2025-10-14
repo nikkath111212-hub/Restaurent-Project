@@ -1,0 +1,2 @@
+update or delete user
+admin job
